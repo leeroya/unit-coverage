@@ -22,7 +22,7 @@ npm install unit-coverage --save-dev
 ## The idea
 
 You could ask: what is the use of yet another JS coverage tool? `unit-coverage` was born out of the discussion about
-the correctness of the current coverage tools: what exactly is beeing measured by most coverage tools available?
+the correctness of the current coverage tools: what exactly is being measured by most coverage tools available?
 
 In most coverage tools you can find at least three metrics:
 
